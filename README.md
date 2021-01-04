@@ -1,9 +1,10 @@
 # Fabric Example Mod
 
-## Setup
+## About
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+This WIP Fabric mod adds a post-apocalyptic zombie dimension among other things. The only valid places to get this mod are the GitHub page and CurseForge. Anywhere else does not have my permission and may be broken or contain malware. If you would like you may post a download link linking back to CurseForge on other sites but do not post the actual files.
+
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This Mod is all right reserved until get around to putting a license here
